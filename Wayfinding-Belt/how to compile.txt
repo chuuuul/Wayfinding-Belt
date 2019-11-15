@@ -1,0 +1,6 @@
+1. 라즈베리파이에서 
+    gcc -o find_map find_map.c -lm -lwiringPi -lpthread
+
+2. gps.py 실행
+
+3. find_map 실행
